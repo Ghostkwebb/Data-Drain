@@ -3,10 +3,6 @@
 ![DataDrain Screenshot](https://github.com/user-attachments/assets/a7fd4ad4-678f-4ddf-8cda-edd4c2376519)
 ![DataDrain Screenshot](https://github.com/user-attachments/assets/d8b2895f-d34f-4458-a5a9-2a735571adec)
 
-<img width="600" height="828" alt="Screenshot 2025-08-08 at 7 15 52 PM" src="https://github.com/user-attachments/assets/a7fd4ad4-678f-4ddf-8cda-edd4c2376519" />
-<img width="600" height="828" alt="Screenshot 2025-08-08 at 7 16 15 PM" src="https://github.com/user-attachments/assets/d8b2895f-d34f-4458-a5a9-2a735571adec" />
-
-
 A simple, modern, and powerful YouTube downloader for macOS and Windows, built with Python and `yt-dlp`. DataDrain offers a clean, dark-themed interface to download any video or audio from YouTube in your desired format and quality.
 
 ---
