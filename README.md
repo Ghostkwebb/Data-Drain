@@ -39,7 +39,7 @@ A simple, modern, and powerful YouTube downloader for macOS and Windows, built w
 
 ### Installation
 
-1.  Go to the **[Releases](https://github.com/your-username/your-repo/releases)** page of this repository.
+1.  Go to the **[Releases](https://github.com/Ghostkwebb/Data-Drain/releases)** page of this repository.
 2.  Download the latest version for your operating system:
     -   **For macOS**: Download the `DataDrain_Mac.zip` file.
     -   **For Windows**: Download the `DataDrain_Win.zip` file.
