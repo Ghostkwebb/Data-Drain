@@ -41,8 +41,8 @@ A simple, modern, and powerful YouTube downloader for macOS and Windows, built w
 
 1.  Go to the **[Releases](https://github.com/your-username/your-repo/releases)** page of this repository.
 2.  Download the latest version for your operating system:
-    -   **For macOS**: Download the `DataDrain.app.zip` file.
-    -   **For Windows**: Download the `DataDrain.exe.zip` file.
+    -   **For macOS**: Download the `DataDrain_Mac.zip` file.
+    -   **For Windows**: Download the `DataDrain_Win.zip` file.
 3.  Unzip the file.
 4.  Run the application!
     -   On macOS, you may need to **right-click** `DataDrain.app` and select **"Open"** the first time.
