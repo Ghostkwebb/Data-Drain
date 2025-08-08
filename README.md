@@ -1,5 +1,15 @@
 # DataDrain 排水
 
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a7fd4ad4-678f-4ddf-8cda-edd4c2376519" alt="DataDrain App Main Interface" width="100%"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/d8b2895f-d34f-4458-a5a9-2a735571adec" alt="DataDrain App with Video Loaded" width="100%"></td>
+  </tr>
+</table>
+<p align="center">
+  <i>Main interface (left) and with a video loaded (right).</i>
+</p>
+
 ![DataDrain Screenshot](https://github.com/user-attachments/assets/a7fd4ad4-678f-4ddf-8cda-edd4c2376519)
 ![DataDrain Screenshot](https://github.com/user-attachments/assets/d8b2895f-d34f-4458-a5a9-2a735571adec)
 
